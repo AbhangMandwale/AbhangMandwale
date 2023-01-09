@@ -1,7 +1,7 @@
 ![sapiens abhangmandwale](https://user-images.githubusercontent.com/76764670/211254358-99a8ab9e-e9ef-4ec1-93d7-d234f2ffed4d.png)
 <h1 align="center">Hi 👋, I'm Abhang</h1>
 <h3 align="center">A CyberSecurity Enthusiast</h3>
-<img align="right" width="400" src="D:\Abhang\sapiens abhangmandwale.png">
+<img align="right" width="300" src="D:\Abhang\sapiens abhangmandwale.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhangmandwale&label=Profile%20views&color=0e75b6&style=flat" alt="abhangmandwale" /> </p>
 
