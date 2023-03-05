@@ -1,4 +1,4 @@
-![sapiens abhangmandwale](https://user-images.githubusercontent.com/76764670/211254358-99a8ab9e-e9ef-4ec1-93d7-d234f2ffed4d.png)
+
 <h1 align="center">Hi 👋, I'm Abhang!</h1>
 <h3 align="center">A CyberSecurity Enthusiast</h3>
 <img align="right" width="100" src="C:\Users\Abhang\Downloads\peeps-avatar-alpha (3)">
