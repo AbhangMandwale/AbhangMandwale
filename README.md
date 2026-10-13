@@ -6,14 +6,13 @@
 <a href="https://linkedin.com/in/abhang-mandwale-84ab66215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://medium.com/@abhang.mandwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
 <a href="https://twitter.com/krypto_knyght" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<img src="https://komarev.com/ghpvc/?username=abhangmandwale&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🛡️ About Me
 
-- 🎓 **MSc Applied Cyber Security** student at **TU Dublin** (targeting a 1:1), with a BEng in Computer Engineering.
+- 🎓 **MSc Applied Cyber Security** graduate from **TU Dublin**, with a BEng in Computer Engineering.
 - 🔍 Focused on **Security Operations (SOC)** and **Digital Forensics & Incident Response (DFIR)** — detection engineering, threat hunting, log analysis, and triage.
 - 🧑‍🏫 **Computing Tutor at TU Dublin**, delivering 1:1 tutoring across CS and cybersecurity topics.
 - 🏢 Prior industry experience in **Cyber Risk Management & GRC** (Bajaj Allianz) and **Python / ML backend engineering** (BirdVision).
@@ -58,13 +57,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abhangmandwale&show_icons=true&locale=en&theme=dark" alt="stats" />
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=abhangmandwale&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhangmandwale&show_icons=true&locale=en&layout=compact&theme=dark" alt="top langs" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abhangmandwale&theme=dark" alt="streak" />
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhangmandwale&show_icons=true&locale=en&layout=compact&theme=dark" alt="top langs" />
-</p>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhangmandwale&theme=dark" alt="streak" />
-</p>
-
