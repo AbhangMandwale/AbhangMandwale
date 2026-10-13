@@ -13,7 +13,7 @@
 
 ### 🛡️ About Me
 
-- 🎓 **MSc Applied Cyber Security** student at **TU Dublin** (targeting a 1:1), with a BEng in Computer Engineering.
+- 🎓 **MSc Applied Cyber Security** student at **TU Dublin**, with a BEng in Computer Engineering.
 - 🔍 Focused on **Security Operations (SOC)** and **Digital Forensics & Incident Response (DFIR)** — detection engineering, threat hunting, log analysis, and triage.
 - 🧑‍🏫 **Computing Tutor at TU Dublin**, delivering 1:1 tutoring across CS and cybersecurity topics.
 - 🏢 Prior industry experience in **Cyber Risk Management & GRC** (Bajaj Allianz) and **Python / ML backend engineering** (BirdVision).
